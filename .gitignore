@@ -1,0 +1,7 @@
+*.venv/*
+*results/*
+*dataset/*
+*misc/*
+*tools/*
+*__pycache__*
+*simple_waymo_open_dataset_reader.egg-info/*

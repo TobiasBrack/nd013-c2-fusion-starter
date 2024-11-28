@@ -15,7 +15,7 @@ The camera fusion was the hardest step for my as I initially forgot to transform
 
 ### 2. Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)? 
 
-Looking at my results from ![Step 3](ex_plots/final_project_3.PNG "Lidar only tracking RMSE results") and ![Step 4](img/final_project_4.PNG "Lidar and camera tracking RMSE results")  I can see that the RMSE has decreased substantially by adding the camera information to the KF.
+Looking at my results I can see that the RMSE has decreased substantially by adding the camera information to the KF.
 
 
 ### 3. Which challenges will a sensor fusion system face in real-life scenarios? Did you see any of these challenges in the project?
